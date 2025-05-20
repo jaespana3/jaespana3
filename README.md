@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Jose 
 
-<!--
-**jaespana3/jaespana3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a certified Data Analyst with a background in Business Administration, Marketing, and Communication Design. My professional experience spans B2B sales, commercial strategy, and customer success across fast-paced tech and fintech environments in LATAM and Europe.
 
-Here are some ideas to get you started:
+As I pivot into the world of data, my primary interest lies in applying analytical methods to financial and strategic decision-making. I’m especially focused on the intersection of business, technology, and insight — with the goal of delivering measurable value and long-term impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔎 Areas of Interest
+- Financial Analytics & Forecasting  
+- Commercial Strategy & Business Intelligence  
+- KPI Dashboards & Reporting Automation  
+- Risk Modeling & Scenario Analysis  
+- SQL-driven Insights & Python-based Reporting
+
+---
+
+### 🛠️ Tools & Technologies
+- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Analytics**: Excel (advanced), Tableau, Google Sheets  
+- **Databases**: PostgreSQL, MySQL  
+- **CRM & Ops**: HubSpot, Salesforce  
+- **Other**: Git, Jupyter Notebooks
+
+---
+
+### 📁 Featured Projects (Pinned Below)
+1. 📊 **Sales Funnel & Revenue Projection (Python)**  
+2. 📈 **Financial Dashboard (Tableau & Excel)**  
+3. 🧮 **KPI Automation for SaaS Metrics (SQL)**  
+4. 🔍 **Customer Segmentation & Behavioral Clustering**  
+
+Each project is designed to mirror real-world business needs — built from either open-source or simulated datasets — and emphasizes clean documentation, reproducibility, and actionable insights.
+
+---
+
+### 🌍 Currently Based in
+Barcelona, Spain — Italian/EU Citizen — Open to remote or international opportunities across Europe and globally.
+
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joseaespanap) | [Email](mailto:joseaespanap@gmail.com)
