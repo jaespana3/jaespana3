@@ -1,40 +1,45 @@
-# 👋 Hi, I'm Jose 
+# 👋 Hi, I'm [Your Name]
 
-I’m a certified Data Analyst with a background in Business Administration, Marketing, and Communication Design. My professional experience spans B2B sales, commercial strategy, and customer success across fast-paced tech and fintech environments in LATAM and Europe.
-
-As I pivot into the world of data, my primary interest lies in applying analytical methods to financial and strategic decision-making. I’m especially focused on the intersection of business, technology, and insight — with the goal of delivering measurable value and long-term impact.
+I am a certified Data Analyst with a strong foundation in business strategy, marketing, and communication design. Passionate about leveraging data to drive financial insights, optimize risk, and support strategic decision-making. My experience combines analytical rigor with commercial awareness, enabling me to translate complex datasets into clear, actionable business recommendations.
 
 ---
 
-### 🔎 Areas of Interest
-- Financial Analytics & Forecasting  
-- Commercial Strategy & Business Intelligence  
-- KPI Dashboards & Reporting Automation  
-- Risk Modeling & Scenario Analysis  
-- SQL-driven Insights & Python-based Reporting
+### 🛠️ Key Skills & Tools
+- Python (Pandas, Matplotlib, Seaborn, Jupyter)  
+- SQL & Database Management  
+- Tableau & Advanced Data Visualization  
+- Statistical Analysis & A/B Testing  
+- Financial & Risk Analysis  
 
 ---
 
-### 🛠️ Tools & Technologies
-- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Analytics**: Excel (advanced), Tableau, Google Sheets  
-- **Databases**: PostgreSQL, MySQL  
-- **CRM & Ops**: HubSpot, Salesforce  
-- **Other**: Git, Jupyter Notebooks
+### 📂 Featured Projects
+
+#### [Data-Processing-with-Pandas](https://github.com/jaespana3/Data-Processing-with-Pandas)  
+An exploration of data cleaning and transformation techniques using Python's Pandas library to prepare datasets for analysis.
+
+#### [Data-Visualization-with-Python](https://github.com/jaespana3/Data-Visualization-with-Python)  
+Demonstrates effective data storytelling through Python visualization libraries including Matplotlib and Seaborn.
+
+#### [Risk-Analysis](https://github.com/jaespana3/Risk-Analysis)  
+A practical Jupyter Notebook applying risk assessment methods to financial datasets, highlighting probabilistic modeling and scenario analysis.
+
+#### [SQL-Project](https://github.com/jaespana3/SQL-Project)
+SQL queries and scripts designed to extract business insights from relational databases, focusing on KPI calculation and reporting.
+
+#### [Statistical-Inference-A-B-Testing](https://github.com/jaespana3/Statistical-Inference-A-B-Testing)  
+Statistical hypothesis testing implemented through an A/B testing case study, analyzing business decision impact.
+
+#### [Visualizing-Data-with-Tableau](https://github.com/jaespana3/Visualizing-Data-with-Tableau)  
+Interactive Tableau dashboards that track financial and operational metrics to support business strategy.
 
 ---
 
-### 📁 Featured Projects (Pinned Below)
-1. 📊 **Sales Funnel & Revenue Projection (Python)**  
-2. 📈 **Financial Dashboard (Tableau & Excel)**  
-3. 🧮 **KPI Automation for SaaS Metrics (SQL)**  
-4. 🔍 **Customer Segmentation & Behavioral Clustering**  
+### 🌍 Location & Contact  
+Based in Barcelona, Spain — Italian/EU citizen. Open to remote and international opportunities.
 
-Each project is designed to mirror real-world business needs — built from either open-source or simulated datasets — and emphasizes clean documentation, reproducibility, and actionable insights.
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/joseaespanap@gmail.com) | [Email](mailto:joseaespanap@gmail.com)
 
 ---
 
-### 🌍 Currently Based in
-Barcelona, Spain — Italian/EU Citizen — Open to remote or international opportunities across Europe and globally.
-
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joseaespanap) | [Email](mailto:joseaespanap@gmail.com)
+*All projects reflect real-world business problems tackled through data analysis, visualization, and strategic insights.*
